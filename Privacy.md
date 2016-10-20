@@ -1,27 +1,19 @@
 # Privacy
 
-__Last updated 11/16/2014:__
+__Last updated 10/21/2016:__
 
- 
+This privacy policy available under a Creative Commons Sharealike license. 
 
-Your privacy is important to us, and it is Minds, Inc. (Minds) policy to respect the privacy of our users regarding any information we may collect while operating our websites. We have a few fundamental principles:
+Your privacy is important to us, and it is Minds, Inc. (Minds) policy to respect the privacy of our users regarding any information we may collect while operating our websites.
 
-- We don’t ask you for personal information unless we truly need it.
+Users have the right to be anonymous on Minds. Minds does not require any personally identifiable information to sign up. However, if users do not provide a valid email address they will be unable to utilize certain services such as Forgot Password, and there will be no way to recover an account. 
 
-- We don't store personal information on our servers unless we must to provide our services.
+Minds is encrypted end-to-end via HTTPS and encrypts all sensitive information stored at rest including emails, passwords and private messages. 
 
-- We do not willfully disclose the personal information of our users to anyone except to comply to applicable law, provide the services of the website, or protect our rights.
+Minds does not ask you for personal information unless it is required to provide certain additional services including but not limited to payments, two-factor authentication, etc.
 
-- We will notify our users immediately if we believe their personal information is disclosed by Minds in any unauthorized way.
+Minds does not willfully disclose the personal information of our users to anyone except to comply to applicable law, provide the services of the website, or protect our rights. Minds will notify users immediately if we believe their personal information is disclosed in any unauthorized way.
 
-- Encrypt everything
-
-In our products, we aim to make it as simple as possible for you to control what’s visible to the public, seen by search engines, kept private, and permanently deleted. Below is our privacy policy which incorporates these goals: (Note, we’ve decided to make this privacy policy available under a Creative Commons Sharealike license).
- 
-
-If you have questions about deleting or correcting your personal data please contact us.
-
- 
 
 ### Website Visitors
 
@@ -70,3 +62,7 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 ### Privacy Policy Changes
 
 Although most changes are likely to be minor, Minds may change its Privacy Policy from time to time, and in Minds’ sole discretion. Minds encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a Minds.com account, you should also check your account’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+### Third party applications
+
+Minds offers certain services utilizing third parties. Users are not required to utilize these services in order to operate Minds.com. None of the third par
