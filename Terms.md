@@ -29,17 +29,29 @@ Your Minds channel. If you create an account on the Minds platform, you are resp
 Responsibility of registered users. 
 
 If you operate a channel or site, comment on a post, post material to Minds, post links or otherwise make (or allow any third party to make) material available by means of Minds (any such material, “Content”), you are entirely responsible for the content of, and any harm resulting from that Content or your conduct. That is the case regardless of what form the Content takes, which includes, but is not limited to text, photo, video, audio, or code. By using Minds, you represent and warrant that your Content and conduct do not violate these terms. By submitting Content to Minds, you grant Minds a world-wide, royalty-free, and non-exclusive license to reproduce, modify, adapt and publish the Content solely for the purpose of displaying, distributing, and promoting your channel or site. You also give other Minds users permission to share your Content on other Minds channels and sites and add their own Content to it ((aka to Remind (reblog) your Content)), so long as they use only a portion of your post, and they give you credit as the original author by linking back to your website. The Remind function on Minds.com does this automatically. If you delete Content, Minds will use reasonable efforts to remove it from Minds, but you acknowledge that caching or references to the Content may not be made immediately unavailable. Without limiting any of those representations or warranties, Minds has the right (though not the obligation) to, in Minds’ sole discretion, (i) refuse or remove any Content that, in Minds’ reasonable opinion, violates any Minds terms or policies or is in any way unlawful or (ii) terminate or deny access to and use of Minds to any individual or entity. Minds will have no obligation to provide a refund of any amounts previously paid, regardless of whether the Content in question constitutes text, graphics, an audio file, or computer software. By registering an account and making Content available, you further represent and warrant the following: 
+
 The downloading, copying and use of the Content will not infringe the proprietary rights, including but not limited to the copyright, patent, trademark or trade secret rights, of any third party;
+
 If your employer has rights to intellectual property you create, you have either (i) received permission from your employer to post or make available the Content, including but not limited to any software, or (ii) secured from your employer a waiver as to all rights in or to the Content;
+
 You represent that you have fully complied with any third-party licenses relating to the Content, and have done all things necessary to successfully pass through to end users any required terms;
+
 The Content does not contain or install any viruses, worms, malware, Trojan horses or other harmful or destructive content;
+
 The Content is not spam or bulk unsolicited messages, is not machine or randomly generated, and does not contain unethical or unwanted commercial content designed to drive traffic to third party sites or boost the search engine rankings of third party sites, or to further unlawful acts (such as phishing) or mislead recipients as to the source of the material (such as spoofing);
+
 Interact with other Minds users in an unwanted way such as stalking or harassing.
+
 The Content does not target with @name threats, harassment, doxing or violence. 
+
 The Content does not contain threats or incite violence, and does not violate the privacy or publicity rights of any third party;
+
 Your account is not getting advertised via unwanted electronic messages such as spam links on newsgroups, email lists, other blogs and web sites, and similar unsolicited promotional methods;
+
 Your account is not presented in a manner that misleads your readers into thinking that you are another person or company;
+
 You have, in the case of Content that includes computer code, accurately categorized and/or described the type, nature, uses and effects of the materials, whether requested to do so by Minds or otherwise;
+
 You also give other Minds user’s permission to share your Content under the legal terms outlined in the license you select, whether Creative Commons, All Rights Reserved, or any other available license;
 
 HTTPS. 
